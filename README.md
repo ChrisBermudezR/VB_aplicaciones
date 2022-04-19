@@ -45,10 +45,26 @@ Una vez activada la pestaña de "Programador" se debe dar click en el botón <im
 
 Por lo general los archivos que contienen una serie de comandos en VBA se guardan con una extensión .bas, este tipo de archivos se pueden importar directamente al entorno de  desarrollado de MS Excel dando click derecho sobre el VBAProject que se encuentra en la subventana del "Exlorador de Proyectos" y dando click en "Importar archivo". 
 
-<img src="Fig06.png" style="width: 25%"  aling="center" /></a>
+<img src="Fig06.png" style="width: 25%"  aling="center"/></a>
 
 
-Una vez se importe el archívo, este aparecerá en una la sección de "Módulos".
+Una vez se importe el archívo, este aparecerá en  la sección de "Módulos".
 
 
-<img src="Fig07.png" style="width: 25%"  aling="center" /></a>
+<img src="Fig07.png" style="width: 25%"  aling="center"/></a>
+
+Una vez importada la herramienta, esta recibirá el nombre que se asigne a la subrutina por medio de la parabra Sub. Este será en nombre con el que se llamará y se ejecuratá a la macro en el archivo .xlsx de MS Excel.
+
+<img src="Fig08.png" style="width: 100%" /></a>
+
+Una vez cargada la herramienta se podrá acceder a ella en el archivo de .xlsx de MS Excel por medio del botón <img src="Fig09.png" style="width: 4%" aling="center"/></a>. Este paso abrirá una ventana donde se podrá acceder a la herramienta dandole click sobre el nombre y posteriormente ejecutar.
+
+<img src="Fig10.png" style="width: 100%" /></a>
+
+## ¿Cómo guardar un archivo de excel con una herramienta macro?
+
+Todo archivo de excel que tenga una o varias herramientas macros cargadas debe guardarse como un "libro de excel habilitado para macros" cuya extensión será .xlsm.
+
+
+
+<img src="Fig11.png" style="width: 100%" /></a>
