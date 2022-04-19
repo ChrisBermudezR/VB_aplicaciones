@@ -2,7 +2,7 @@
 
 
 
-A veces tenemos la necesidad de manipular datos en Excel, pero las herramientas por defecto no nos sirven, o mejor aún, no sabemos que existen  :see_no_evil:.
+A veces tenemos la necesidad de manipular datos en Excel, pero las herramientas por defecto no nos sirven, o peor aún, no sabemos que existen  :see_no_evil:.
 Por esta razón en este repositorio ofreceré algunas herramientas que son muy necesarias en el día a día de la oficina cuando manipulamos datos.
 
 La primera pregunta que hay que hacer es:

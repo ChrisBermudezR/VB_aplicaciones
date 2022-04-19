@@ -11,8 +11,8 @@ col = Selection.Column
 k = Selection.Row
 
 'Esto recorre el rango y realiza la trasposición
-For i = 1 To UBound(rango, 1)
-    For j = 1 To UBound(rango, 2)
+For j = 1 To UBound(rango, 2)
+    For i = 1 To UBound(rango, 1)
         Cells(k, col + UBound(rango, 2)).Value = rango(i, j)
         k = k + 1
     Next
