@@ -59,7 +59,7 @@ Una vez importada la herramienta, esta recibirá el nombre que se asigne a la su
 
 Una vez cargada la herramienta se podrá acceder a ella en el archivo de .xlsx de MS Excel por medio del botón <img src="Fig09.png" style="width: 4%" aling="center"/></a>. Este paso abrirá una ventana donde se podrá acceder a la herramienta dandole click sobre el nombre y posteriormente ejecutar.
 
-<img src="Fig10.png" style="width: 100%" /></a>
+<img src="Fig10.png" style="width: 25%" /></a>
 
 ## ¿Cómo guardar un archivo de excel con una herramienta macro?
 
