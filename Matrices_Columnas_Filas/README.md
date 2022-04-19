@@ -43,4 +43,4 @@ Muchas veces tenemos una matriz que queremos ubicarla ordenadamente en una sola 
 
 <img src="Fig06.png" style="width: 100%" /></a>
 
-Los archivos [Matriz_Columnas.bas](https://raw.githubusercontent.com/ChrisBermudezR/VB_aplicaciones/main/Matrices_Columnas_Filas/Matriz_Columnas.bas) y [Matriz_Filas.bas](https://raw.githubusercontent.com/ChrisBermudezR/VB_aplicaciones/main/Matrices_Columnas_Filas/Matriz_Filas.bas) tienen el código para ejecutar las macros desde el editor de código de excel. Puede guardar estos archivos dadole click derecho sobre el link y "Guardar como" para descargar el archivo directamente.
+Los archivos [Matriz_Columnas.bas](https://raw.githubusercontent.com/ChrisBermudezR/VB_aplicaciones/main/Matrices_Columnas_Filas/Matriz_Columnas.bas) y [Matriz_Filas.bas](https://raw.githubusercontent.com/ChrisBermudezR/VB_aplicaciones/main/Matrices_Columnas_Filas/Matriz_Filas.bas) tienen el código para ejecutar las macros desde el editor de código de excel. Puede guardar estos archivos dadole click derecho sobre el link y "Guardar enlace como" para descargar el archivo directamente.
