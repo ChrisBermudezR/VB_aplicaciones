@@ -11,6 +11,10 @@ Muchas veces tenemos una matriz que queremos ubicarla ordenadamente en una sola 
 
 2. Supongamos que tenemos la sigueinte matriz y deseamos transformarla a una sola columna:
 
+
+
+| 1 | 2 | 3 | 4 |
+|---|---|---|---|
 | 1 | 2 | 3 | 4 |
 | 1 | 2 | 3 | 4 |
 | 1 | 2 | 3 | 4 |
@@ -20,7 +24,7 @@ Muchas veces tenemos una matriz que queremos ubicarla ordenadamente en una sola 
 | 1 | 2 | 3 | 4 |
 | 1 | 2 | 3 | 4 |
 | 1 | 2 | 3 | 4 |
-| 1 | 2 | 3 | 4 |
+
 
 
 
