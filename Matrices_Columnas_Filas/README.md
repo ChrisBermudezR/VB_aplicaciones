@@ -1,4 +1,4 @@
-# Transposición de Matrices a Columnas ó Filas :trollface:.
+# Transposición de Matrices a Columnas ó Filas.
 
 
 En este apartado explico como transponer una matriz entera en una sola columna o una sola fila con VBA para MS Excel.
