@@ -8,4 +8,4 @@ La primera pregunta que hay que hacer es, ¿Que es Visual Basic (VBA)? y ¿Para 
 
 ## Visual Basic para Aplicaciones (VBA)
 
-*Visual Basic* es un lenguaje de programación de Microsoft que permite crear **macros**, el termino corto para *macroinstrucciones*, que son una serie de pasos que resuelven problemas y se almacenan para ejecutarlos con una sola orden. ***VBA*** es el lenguaje que soporta muchas aplicaciones en el sistema operatico Windows y muchas de sus aplicaciones como MS Word, MS Outlook, MS Acess, MS PowerPoint y por su puesto MS Excel :trollface:.
+*Visual Basic* es un lenguaje de programación de Microsoft que permite crear **macros**, el termino corto para *macroinstrucciones*, que son una serie de pasos que resuelven problemas y se almacenan para ejecutarlos con una sola orden. ***VBA*** es el lenguaje que soporta muchas aplicaciones en el sistema operatico Windows y muchas de sus aplicaciones como MS Word, MS Outlook, MS Acess, MS PowerPoint y por supuesto MS Excel :trollface:.
