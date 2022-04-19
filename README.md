@@ -45,10 +45,10 @@ Una vez activada la pestaña de "Programador" se debe dar click en el botón <im
 
 Por lo general los archivos que contienen una serie de comandos en VBA se guardan con una extensión .bas, este tipo de archivos se pueden importar directamente al entorno de  desarrollado de MS Excel dando click derecho sobre el VBAProject que se encuentra en la subventana del "Exlorador de Proyectos" y dando click en "Importar archivo". 
 
-<img src="Fig06.png" style="width: 25%"  aling="center"//></a>
+<img src="Fig06.png" style="width: 25%"  aling="center" /></a>
 
 
 Una vez se importe el archívo, este aparecerá en una la sección de "Módulos".
 
 
-<img src="Fig07.png" style="width: 25%"  aling="center"//></a>
+<img src="Fig07.png" style="width: 25%"  aling="center" /></a>
