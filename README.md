@@ -37,4 +37,4 @@ Debe aparecer en la cinta de opciones la pestaña "Programador" y ahí encontrar
 
 <img src="Fig03.png" style="width: 100%" /></a>
 
-Una vez activada la pestaña de "Programador" se debe dar click en el botón <img src="Fig04.png" style="width: 1%" aling="center"/>
+Una vez activada la pestaña de "Programador" se debe dar click en el botón <img src="Fig04.png" style="width: 4%" aling="center"/>
