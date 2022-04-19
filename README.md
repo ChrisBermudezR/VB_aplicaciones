@@ -22,3 +22,9 @@ La primera pregunta que hay que hacer es:
 * WordPerfect  
 * UNICOM System Architect  
 * ArcGIS 
+
+## ¿Cómo activar el entorno de desarrollador en MS Excel?
+
+Se debe acceder a la pestaña Archivo y far click en Opciones.
+
+<img src="Fig01.png" style="width: 100%" /></a>
