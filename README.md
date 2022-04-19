@@ -1,4 +1,4 @@
-# Aplicaciones Visual Basic (VBA) para EXCEL.
+# Aplicaciones Visual Basic (VBA) para MS EXCEL.
 
 
 
