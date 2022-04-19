@@ -25,6 +25,16 @@ La primera pregunta que hay que hacer es:
 
 ## ¿Cómo activar el entorno de desarrollador en MS Excel?
 
-Se debe acceder a la pestaña Archivo y far click en Opciones.
+Se debe acceder a la pestaña "Archivo" y dar click en "Opciones".
 
 <img src="Fig01.png" style="width: 100%" /></a>
+
+El paso siguiente es dar click en "Personalizar cinta de opciones" y dar click en "Programador"
+
+<img src="Fig02.png" style="width: 100%" /></a>
+
+Debe aparecer en la cinta de opciones la pestaña "Programador" y ahí encontrará la opción Visual Basic.
+
+<img src="Fig03.png" style="width: 100%" /></a>
+
+Una vez activada la pestaña de "Programador" se debe dar click en el botón <img src="Fig04.png" style="width: 7%" aling="center"/>
