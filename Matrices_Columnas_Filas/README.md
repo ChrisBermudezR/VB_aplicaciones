@@ -39,7 +39,7 @@ Muchas veces tenemos una matriz que queremos ubicarla ordenadamente en una sola 
 
 <img src="Fig05.png" style="width: 100%" /></a>
 
-6. Si por el contrario se desea crear una sola columna que conserve el orden de lass filas de la matriz se debe ejecutar la herramienta "*rango_filas*".
+6. Si por el contrario se desea crear una sola columna que conserve el orden de las filas de la matriz se debe ejecutar la herramienta "*rango_filas*".
 
 <img src="Fig06.png" style="width: 100%" /></a>
 
