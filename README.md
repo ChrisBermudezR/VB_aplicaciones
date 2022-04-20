@@ -54,7 +54,7 @@ Una vez se importe el archívo, este aparecerá en  la sección de "Módulos".
 <img src="Fig07.png" style="width: 25%"  aling="center"/></a>
 
 Una vez importada la herramienta, esta recibirá el nombre que se asigne a la subrutina por medio de la parabra Sub. Este será en nombre con el que se llamará y se ejecuratá a la macro en el archivo .xlsx de MS Excel.
-
+![alt tag](Vid01.gif "Como cargar una herramienta localmente")
 <img src="Fig08.png" style="width: 100%" /></a>
 
 Una vez cargada la herramienta se podrá acceder a ella en el archivo de .xlsx de MS Excel por medio del botón <img src="Fig09.png" style="width: 4%" aling="center"/></a>. Este paso abrirá una ventana donde se podrá acceder a la herramienta dandole click sobre el nombre y posteriormente ejecutar.
