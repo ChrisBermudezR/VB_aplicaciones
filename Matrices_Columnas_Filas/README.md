@@ -37,7 +37,7 @@ Muchas veces tenemos una matriz que queremos ubicarla ordenadamente en una sola 
 
 5. Si se desea crear una columna donde la secuencia conserve el orden de las columnas de la matriz se debe ejecutar la herramienta "*rango_columnas*".
 
-<img src="Fig05.png" style="width: 100%" /></a>
+![alt tag](Vid01.gif "Así se ejecuta la herramienta")
 
 6. Si por el contrario se desea crear una sola columna que conserve el orden de las filas de la matriz se debe ejecutar la herramienta "*rango_filas*".
 
