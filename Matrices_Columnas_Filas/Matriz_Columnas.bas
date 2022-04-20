@@ -1,3 +1,10 @@
+'* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+'* Creado    : 2022-02-27
+'* Autor     : ChrisBermudezR
+'* Contacto   : https://chrisbermudezr.github.io/
+'* Objetivo   : Transponer una matriz a una sola columna manteniendo la secuencia de la matriz por columnas
+'* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 Sub rango_columnas()
 
 Dim rango As Variant
